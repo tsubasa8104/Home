@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-CACACACSSAC
 
-This is origin
-=======
-ASDCCCAqqq
-
-
-DSc
-
-ASDqioweqeeq
->>>>>>> origin
