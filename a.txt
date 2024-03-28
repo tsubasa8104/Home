@@ -1,1 +1,10 @@
 
+<<<<<<< HEAD
+=======
+
+DSc
+
+ASDqioweqeeq
+
+123
+>>>>>>> 601355e1f3eddccb668b9eef306c1811faded25a
